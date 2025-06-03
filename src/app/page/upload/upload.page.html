@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Subir Archivo</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-item>
+    <ion-label>Archivo</ion-label>
+    <input type="file" (change)="onFileSelected($event)" />
+  </ion-item>
+
+  <ion-button expand="full" (click)="uploadFile()">Subir a Supabase</ion-button>
+
+  <ion-text color="primary">
+    <p>{{ message }}</p>
+  </ion-text>
+</ion-content>
