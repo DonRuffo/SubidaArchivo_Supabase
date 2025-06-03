@@ -15,8 +15,12 @@ En este proyecto se presenta los resultados del desarollo de una pequeña aplica
 
 ![image](https://github.com/user-attachments/assets/2bd13483-e37c-40b3-8ec9-c738b4fddfc5)
 
+### Archivo en Supabase
+
+![image](https://github.com/user-attachments/assets/d43e74aa-635e-4f8a-bc89-44e415d20667)
+
+
 #### Intergrantes
 
 Dennis Díaz
-
 Martín Ayala
